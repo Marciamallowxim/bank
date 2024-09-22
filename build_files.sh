@@ -1,4 +1,4 @@
-python3.12.5 -m venv venv
+python -m venv venv
 
 # activate the virtual environment
 source venv/bin/activate
