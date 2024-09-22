@@ -1,3 +1,5 @@
+python3 --version
+
 python3.9 -m venv venv
 
 # activate the virtual environment
